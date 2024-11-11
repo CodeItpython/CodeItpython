@@ -1,3 +1,9 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=180&text=Gunwoo's%20Github&animation=scaleIn&fontColor=000000&fontSize=60" />
+    </div>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+gunwoo's+github;Come+and+see+my+Teck+Stack!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
